@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/react" level="application" />
+    <orderEntry type="library" name="@types/react-router-dom" level="application" />
+    <orderEntry type="library" name="@types/svg-sprite" level="application" />
+    <orderEntry type="library" name="@types/svg-path-parser" level="application" />
+    <orderEntry type="library" name="@types/jade" level="application" />
+    <orderEntry type="library" name="@types/jquery" level="application" />
+    <orderEntry type="library" name="@types/pug" level="application" />
+    <orderEntry type="library" name="@types/react-router" level="application" />
+    <orderEntry type="library" name="@types/react-router-redux" level="application" />
+    <orderEntry type="library" name="@types/sass" level="application" />
+    <orderEntry type="library" name="@types/scss-parser" level="application" />
+  </component>
+</module>
